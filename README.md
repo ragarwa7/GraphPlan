@@ -1,4 +1,4 @@
-# GraphPlan
+# GraphPlan (Automated planning)
 Implementation of Graph Planning algorithm in Python
 
 Input
